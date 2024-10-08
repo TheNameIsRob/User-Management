@@ -29,9 +29,27 @@ This tutorial emphasizes managing different user tasks such as creating users an
 
 <h4>Within the Client-1 virtual machine, right click Windows start and click "Systems" for systems properties. In the open tab click "Remote"</h4>
 <img src="https://i.imgur.com/mU87RXd.png">
+
 <h4>Scroll down in the remote desktop tab and click "Select users that can remotely access this pc". Next click "Add" in the next tab that opens up type "Domain Users". Once this is all finished simply click okay</h4>
 <img src="https://i.imgur.com/QcB6ztB.png">
 
 <h3>Overview: These steps will allow us to login into Client-1 with any non-administrative account that is created. In a general setting, enabling non-adminstrative users to access a client like this one will make organizational tasks that require the use of virtual machines for testing much easier. </h3>
+
+<h2>Creating additional users through the domain controller and using the accounts to login</h2>
+<h4>Sign into Domain Controller virtual machine.</h4>
+<img src="https://i.imgur.com/oCcMxaZ.png">
+
+<h4>In the Windows desktop search bar type "Windows Powershell ISE". Then right click the application and open it as an administrator.</h4>
+<img src="https://i.imgur.com/86QYpMB.png">
+
+<img src="https://i.imgur.com/A1j7Fdd.png">
+
+<h4></h4>
+<img src="https://i.imgur.com/ChCpV3M.png">
+
+<h4></h4>
+<img src="https://i.imgur.com/XpGdK8Y.png">
+
+<h3></h3>
 
 
