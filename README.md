@@ -32,6 +32,6 @@ This tutorial emphasizes managing different user tasks such as creating users an
 <h4>Scroll down in the remote desktop tab and click "Select users that can remotely access this pc". Next click "Add" in the next tab that opens up type "Domain Users". Once this is all finished simply click okay</h4>
 <img src="https://i.imgur.com/QcB6ztB.png">
 
-<h3>Overview: Enabling non-adminstrative users to access a client like this one will make organizational tasks that require the use of virtual machines for testing much easier. </h3>
+<h3>Overview:These steps will allow us to login into Client-1 with any non-administrative account that is created. In a general setting, enabling non-adminstrative users to access a client like this one will make organizational tasks that require the use of virtual machines for testing much easier. </h3>
 
 
