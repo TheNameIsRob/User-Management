@@ -52,9 +52,17 @@ This tutorial emphasizes managing different user tasks such as creating users an
 <h4>Paste a script that automatically creates accounts</h4>
 <img src="https://i.imgur.com/6tAp6eU.png">
 
-<h4>Click start above and observe the creation of the non-adminstrative accounts.</h4>
+<h4>Click start above and observe the creation of the non-adminstrative accounts. (In this script we used$PASSWORD_FOR_USERS  = "Password1" to automatically assign each account with the same password.)</h4>
 <img src="https://i.imgur.com/XpGdK8Y.png">
 
-<h3></h3>
+<h4>Select an account that has been automatically generated and use the credentials to log into our Client-1 virtual machine.</h4>
+<img src="https://i.imgur.com/NSLJvQR.png">
+<img src="https://i.imgur.com/JEmOVMZ.png">
+<img src="https://i.imgur.com/44lK1LF.png">
+<img src="">
+
+
+
+<h3>Overview: .</h3>
 
 
