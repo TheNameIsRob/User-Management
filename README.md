@@ -22,6 +22,9 @@ This tutorial emphasizes managing different user tasks such as creating users an
 
 - Setting up Remote Dekstop for non-adminstrative users on Client-1
 - Creating additional users through the domain controller and using the accounts to login.
+- Setting up security rules for login attempts
+- Enabling and disabling accounts
+- Observing logs
 
 <h2>Setup Remote Desktop for non-administrative users on Client-1</h2>
 <h4>Log into the Client-1 virtual machine through remote desktop</h4>
@@ -59,10 +62,7 @@ This tutorial emphasizes managing different user tasks such as creating users an
 <img src="https://i.imgur.com/NSLJvQR.png">
 <img src="https://i.imgur.com/JEmOVMZ.png">
 <img src="https://i.imgur.com/44lK1LF.png">
-<img src="">
+<h3>Overview: We have successfully completed the administrative role of creating accounts and testing it's functionality by logging in. From this point we can expand our tasks and go as far as enforcing security features</h3>
 
-
-
-<h3>Overview: .</h3>
-
+<h2>Group Policy and Managing accounts</h2>
 
