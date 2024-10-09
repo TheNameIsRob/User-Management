@@ -98,3 +98,12 @@ This tutorial emphasizes managing different user tasks such as creating users an
 <img src="https://i.imgur.com/Df1RopB.png">
 
 <h2>File Permissions</h2>
+<h4>Log into domain controller (DC-1)</h4>
+<img src="https://i.imgur.com/307c06H.png">
+<h4>Open up file explorer, go to the C:\ drive and create 4 different files named "“read-access”, “write-access”, “no-access”, “accounting”
+</h4>
+<img src="https://i.imgur.com/3KQyR4J.png">
+<img src="https://i.imgur.com/EkTy3yX.png">
+<h4>After each folder is created, right click the folder and click "Give Access To" then click "Specific people"</h4>
+<img src="https://i.imgur.com/piEdIkV.png">
+<img src="https://i.imgur.com/vf98gMd.png">
