@@ -84,7 +84,6 @@ This tutorial emphasizes managing different user tasks such as creating users an
 <h4>We also have the option to reset the password for the user. We can simply do this by clicking the username we are using within "Active Directory Users and Computers"</h4>
 <img src="https://i.imgur.com/gztauRX.png">
 <img src="https://i.imgur.com/xaZHsdL.png">
-
 <h4>Log into Client-1 to make sure that the account has successfully been enabled for login.</h4>
 <img src="https://i.imgur.com/IxXnLZI.png">
 <img src="https://i.imgur.com/q8dVRCQ.png">
