@@ -96,3 +96,5 @@ This tutorial emphasizes managing different user tasks such as creating users an
 <h4>Click "Windows Logs" and then "Click Security" to view the accounts behavior.
     Below we can examine a list of 5 failed login attempts indicated by the lock icon within the red box</h2>
 <img src="https://i.imgur.com/Df1RopB.png">
+
+<h2>File Permissions</h2>
