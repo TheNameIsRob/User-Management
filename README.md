@@ -120,6 +120,23 @@ This tutorial emphasizes managing different user tasks such as creating users an
 <img src="https://i.imgur.com/gW2i34e.png">
 <img src="https://i.imgur.com/YFVjFVR.png">
 
-<h2>Go back to Client-1 and run \\dc-1 and try to access the folders that were created.</h2>
+<h4>Go back to Client-1 and run \\dc-1 and try to access the folders that were created.</h4>
 <img src="https://i.imgur.com/6DioMJk.png">
 <img src="https://i.imgur.com/48MHeDq.png">
+
+<h4> Go back to DC-1 Domain controller and within the accounting folder created earlier give it "Read/Write permissions and click share so the folder can be accessible</h4>
+<img src="https://i.imgur.com/U2QqNuJ.png">
+<img src="https://i.imgur.com/AIGoyFf.png">
+<h4>Open "Active Directory Users and Computers" and create a new organizatial unit called "_GROUPS</h4>
+<img src="https://i.imgur.com/uZMUPqA.png">
+<img src="https://i.imgur.com/rSp4t9k.png">
+<h4>Then within this new organizational unit, create a Group folder as a security type named "ACCOUNTANTS" </h4>
+<img src="https://i.imgur.com/f8wNbTm.png">
+<h4>Log into Client-1 and try to access the folder (It should fail because it does not have access. After this is done log out."</h4>
+<img src="https://i.imgur.com/GaSZdDQ.png">
+<img src="https://i.imgur.com/LYpi1Q1.png">
+<h4>Make our Domain controller users as a member of the security accounting folder</h4>
+<img src="https://i.imgur.com/0YhdFod.png">
+<h4>Log back into Client-1 with the same user and attempt to access the folder (this time we should have access.</h4>
+<img src="https://i.imgur.com/WK35xDb.png">
+<img src="https://i.imgur.com/ItkxPQg.png">
