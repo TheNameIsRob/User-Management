@@ -109,7 +109,17 @@ This tutorial emphasizes managing different user tasks such as creating users an
 <h4>Give "Read-Access" Read permissions.</h4>
 <img src="https://i.imgur.com/piEdIkV.png">
 <img src="https://i.imgur.com/xTU6C3V.png">
+<img src="img src="https://i.imgur.com/xTU6C3V.png">
+<img src="https://i.imgur.com/kZpwdYs.png">
+
+
 <h4>Give "Write-Access" Read/Write</h4>
 <img src="https://i.imgur.com/P5ngDVx.png">
-
+<img src="https://i.imgur.com/reZwFtk.png">
+<h4>Give "No-Access" Read/Write permissions.</h4>
 <img src="https://i.imgur.com/gW2i34e.png">
+<img src="https://i.imgur.com/YFVjFVR.png">
+
+<h2>Go back to Client-1 and run \\dc-1 and try to access the folders that were created.</h2>
+<img src="https://i.imgur.com/6DioMJk.png">
+<img src="https://i.imgur.com/48MHeDq.png">
