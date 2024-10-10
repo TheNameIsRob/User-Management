@@ -104,6 +104,12 @@ This tutorial emphasizes managing different user tasks such as creating users an
 </h4>
 <img src="https://i.imgur.com/3KQyR4J.png">
 <img src="https://i.imgur.com/EkTy3yX.png">
-<h4>After each folder is created, right click the folder and click "Give Access To" then click "Specific people"</h4>
+<h4>After each folder is created, right click the folder and click "Give Access To" then click "Specific people". Each folder has different permissions.</h4>
+
+<h4>Give "Read-Access" Read permissions.</h4>
 <img src="https://i.imgur.com/piEdIkV.png">
-<img src="https://i.imgur.com/vf98gMd.png">
+<img src="https://i.imgur.com/xTU6C3V.png">
+<h4>Give "Write-Access" Read/Write</h4>
+<img src="https://i.imgur.com/P5ngDVx.png">
+
+<img src="https://i.imgur.com/gW2i34e.png">
